@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Oswald";
+    src:
+        url("../fonts/Oswald/Oswald-Light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 300;
+}
+
+body {
+    font-family: 'Oswald', sans-serif !important;
+    font-size: 14px;
+}
+
+.images, .videos {
+    width: 100%;   
+}
